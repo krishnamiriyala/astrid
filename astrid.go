@@ -1,8 +1,8 @@
 // Package astrid is a collection of AST utilities
 package astrid
 
-//go:generate go get github.com/dave/rebecca/cmd/becca
-//go:generate becca -package=github.com/dave/astrid
+//go:generate go get github.com/krishnamiriyala/rebecca/cmd/becca
+//go:generate becca -package=github.com/krishnamiriyala/astrid
 
 import (
 	"go/ast"
